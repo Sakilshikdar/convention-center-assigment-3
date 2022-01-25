@@ -28,3 +28,18 @@ letter-spacing: 1px;
   text-decoration: none;
   font-weight: 700;
 }
+.icon-bg-color{
+  background-color: 
+  #f496d215;
+}
+.button-color{
+  background-color:#f496d22a;
+  color: blue;
+}
+.plan-bg-image{
+  background-image: url(../images/icons/watermark.svg);
+}
+.hot-offer-desing{
+  margin-bottom: 40px;
+  background-image: url(../images/icons/watermark.svg);
+}

@@ -57,3 +57,10 @@ border-radius: 26px;
 .app-store img{
 width: 100px;
 }
+.hot{
+  position: absolute;
+  background-color: rgba(255, 0, 0, 0.945);
+  top:-20px;
+  right: 20px;
+  border-radius: 13.5px;
+}
